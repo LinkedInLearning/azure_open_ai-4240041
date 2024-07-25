@@ -4,7 +4,6 @@ Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours en
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-[Marketing Paragraph for Codespaces - without Codespaces: _remove all 3 pragraphs_ - with Codespace: _keep the right paragraph_ for the right course type (1 of 3)]
 
 DESCRIPTION DE LA FORMATION
 
