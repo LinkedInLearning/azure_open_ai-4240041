@@ -33,8 +33,8 @@ La branche master correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
-[lil-URL-trainer]: https://
+[lil-course-url]: https://www.linkedin.com/learning/azure-openai-service-integrer-les-modeles-d-ia-generative-au-cloud
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQFbvgrrPFj6vQ/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1728298825859?e=2147483647&v=beta&t=bmVCWcJu1Ff7GSVJB7gwosqyGcT8lVmbQokeBC7rvXs
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/hamida-rebai
 
 [1]: # (End of FR-Instruction ###############################################################################################)
