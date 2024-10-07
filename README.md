@@ -1,6 +1,6 @@
 # Azure OpenAI Service : Intégrer les modèles d’IA générative au Cloud	
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Azure OpenAI Service : Intégrer les modèles d’IA générative au Cloud`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Azure OpenAI Service : Intégrer les modèles d’IA générative au cloud	][lil-thumbnail-url] 
 
